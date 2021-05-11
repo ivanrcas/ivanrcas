@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ivanrcas. I'm Software and Computer Science developer. I studied Engineering Systems aat Universidad Industrial de Santander. Actually, I'm working as a MISIÓN-TIC 2020 tutor, call organized by ICT ministry of Colombia. Adicionally, I'm member of CV+OMI, Hotbed of Research affilied to GOTS-UIS (Grupo de Óptica y Tratamiento de Señales).
+- 👋 Hi, I’m @ivanrcas. I'm Software and Computer Science developer. I studied Systems Engineering at Universidad Industrial de Santander. Actually, I'm working as a MISIÓN-TIC 2022 tutor, call organized by ICT ministry of Colombia. Adicionally, I'm member of CV+OMI, Hotbed of Research affilied to GOTS-UIS (Grupo de Óptica y Tratamiento de Señales).
 - ✌️ I always try of to do the things rigth. Also, my life's style is to be honest, outgoing and tolerant with the people because each of us is a different universe. 
 
 <div align="center"><img width="50%" src="https://i.giphy.com/media/SSQZrczmMsULisH0yi/giphy.webp"></center>
